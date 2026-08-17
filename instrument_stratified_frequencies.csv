@@ -1,15 +1,15 @@
 ﻿instrument_stratum,denominator,code,category,document_count,percent_within_stratum
-Formal legal or regulatory form,4,P1,Human-centredness,1,25.0
-Formal legal or regulatory form,4,P2,Transparency & Explainability,2,50.0
-Formal legal or regulatory form,4,P3,Inclusivity & Equity,2,50.0
-Formal legal or regulatory form,4,P4,Accountability & Oversight,4,100.0
-Formal legal or regulatory form,4,P5,Privacy & Data Governance,2,50.0
-Formal legal or regulatory form,4,P6,"Safety, Wellbeing & Integrity",3,75.0
-Formal legal or regulatory form,4,P7,Assessment & Credential Trust,3,75.0
-Formal legal or regulatory form,4,P8,Knowledge Integrity & MIL,4,100.0
-Formal legal or regulatory form,4,P9,Cultural Heritage & Authenticity,0,0.0
-Formal legal or regulatory form,4,P10,"Democracy, Rule of Law & Freedom of Expression",2,50.0
-Formal legal or regulatory form,4,P11,Competition & Market Integrity,2,50.0
+Formal legal or regulatory form,4,P1,Human-centeredness,1,25.0
+Formal legal or regulatory form,4,P2,Transparency & explainability,2,50.0
+Formal legal or regulatory form,4,P3,Inclusivity & equity,2,50.0
+Formal legal or regulatory form,4,P4,Accountability & oversight,4,100.0
+Formal legal or regulatory form,4,P5,Privacy & data governance,2,50.0
+Formal legal or regulatory form,4,P6,"Safety, wellbeing & integrity",3,75.0
+Formal legal or regulatory form,4,P7,Assessment & credential trust,3,75.0
+Formal legal or regulatory form,4,P8,Knowledge integrity & MIL,4,100.0
+Formal legal or regulatory form,4,P9,Cultural heritage & authenticity,0,0.0
+Formal legal or regulatory form,4,P10,"Democracy, rule of law & freedom of expression",2,50.0
+Formal legal or regulatory form,4,P11,Competition & market integrity,2,50.0
 Formal legal or regulatory form,4,M1,Normative ethical articulation,3,75.0
 Formal legal or regulatory form,4,M2,Regulatory and legal controls,3,75.0
 Formal legal or regulatory form,4,M3,Institutional oversight and professional roles,2,50.0
@@ -22,28 +22,28 @@ Formal legal or regulatory form,4,M9,Procurement governance,2,50.0
 Formal legal or regulatory form,4,M10,Monitoring and audit,4,100.0
 Formal legal or regulatory form,4,M11,Policy coordination,2,50.0
 Formal legal or regulatory form,4,M12,Environmental sustainability measures,1,25.0
-Formal legal or regulatory form,4,R1,Digital Skills and Human Capacity,3,75.0
-Formal legal or regulatory form,4,R2,Equity and Access,1,25.0
-Formal legal or regulatory form,4,R3,Data Privacy,1,25.0
-Formal legal or regulatory form,4,R4,Ethics and Governance,2,50.0
-Formal legal or regulatory form,4,R5,Pedagogical Quality,1,25.0
-Formal legal or regulatory form,4,R6,Academic Integrity and Authorship,0,0.0
-Formal legal or regulatory form,4,R7,Mental Health,1,25.0
-Formal legal or regulatory form,4,R8,Legal Compliance,2,50.0
-Formal legal or regulatory form,4,R9,Environmental Sustainability,1,25.0
-Formal legal or regulatory form,4,R10,Cultural Homogenisation,0,0.0
-Formal legal or regulatory form,4,R11,Democratic and Civic Erosion,1,25.0
-Official policy or national strategy,24,P1,Human-centredness,14,58.3
-Official policy or national strategy,24,P2,Transparency & Explainability,23,95.8
-Official policy or national strategy,24,P3,Inclusivity & Equity,23,95.8
-Official policy or national strategy,24,P4,Accountability & Oversight,24,100.0
-Official policy or national strategy,24,P5,Privacy & Data Governance,22,91.7
-Official policy or national strategy,24,P6,"Safety, Wellbeing & Integrity",24,100.0
-Official policy or national strategy,24,P7,Assessment & Credential Trust,23,95.8
-Official policy or national strategy,24,P8,Knowledge Integrity & MIL,18,75.0
-Official policy or national strategy,24,P9,Cultural Heritage & Authenticity,9,37.5
-Official policy or national strategy,24,P10,"Democracy, Rule of Law & Freedom of Expression",14,58.3
-Official policy or national strategy,24,P11,Competition & Market Integrity,13,54.2
+Formal legal or regulatory form,4,R1,Digital skills and human capacity,3,75.0
+Formal legal or regulatory form,4,R2,Equity and access,1,25.0
+Formal legal or regulatory form,4,R3,Data privacy,1,25.0
+Formal legal or regulatory form,4,R4,Ethics and governance,2,50.0
+Formal legal or regulatory form,4,R5,Pedagogical quality,1,25.0
+Formal legal or regulatory form,4,R6,Academic integrity and authorship,0,0.0
+Formal legal or regulatory form,4,R7,Mental health,1,25.0
+Formal legal or regulatory form,4,R8,Legal compliance,2,50.0
+Formal legal or regulatory form,4,R9,Environmental sustainability,1,25.0
+Formal legal or regulatory form,4,R10,Cultural homogenization,0,0.0
+Formal legal or regulatory form,4,R11,Democratic and civic erosion,1,25.0
+Official policy or national strategy,24,P1,Human-centeredness,14,58.3
+Official policy or national strategy,24,P2,Transparency & explainability,23,95.8
+Official policy or national strategy,24,P3,Inclusivity & equity,23,95.8
+Official policy or national strategy,24,P4,Accountability & oversight,24,100.0
+Official policy or national strategy,24,P5,Privacy & data governance,22,91.7
+Official policy or national strategy,24,P6,"Safety, wellbeing & integrity",24,100.0
+Official policy or national strategy,24,P7,Assessment & credential trust,23,95.8
+Official policy or national strategy,24,P8,Knowledge integrity & MIL,18,75.0
+Official policy or national strategy,24,P9,Cultural heritage & authenticity,9,37.5
+Official policy or national strategy,24,P10,"Democracy, rule of law & freedom of expression",14,58.3
+Official policy or national strategy,24,P11,Competition & market integrity,13,54.2
 Official policy or national strategy,24,M1,Normative ethical articulation,19,79.2
 Official policy or national strategy,24,M2,Regulatory and legal controls,24,100.0
 Official policy or national strategy,24,M3,Institutional oversight and professional roles,19,79.2
@@ -56,28 +56,28 @@ Official policy or national strategy,24,M9,Procurement governance,19,79.2
 Official policy or national strategy,24,M10,Monitoring and audit,24,100.0
 Official policy or national strategy,24,M11,Policy coordination,17,70.8
 Official policy or national strategy,24,M12,Environmental sustainability measures,14,58.3
-Official policy or national strategy,24,R1,Digital Skills and Human Capacity,17,70.8
-Official policy or national strategy,24,R2,Equity and Access,11,45.8
-Official policy or national strategy,24,R3,Data Privacy,21,87.5
-Official policy or national strategy,24,R4,Ethics and Governance,19,79.2
-Official policy or national strategy,24,R5,Pedagogical Quality,5,20.8
-Official policy or national strategy,24,R6,Academic Integrity and Authorship,16,66.7
-Official policy or national strategy,24,R7,Mental Health,19,79.2
-Official policy or national strategy,24,R8,Legal Compliance,21,87.5
-Official policy or national strategy,24,R9,Environmental Sustainability,7,29.2
-Official policy or national strategy,24,R10,Cultural Homogenisation,8,33.3
-Official policy or national strategy,24,R11,Democratic and Civic Erosion,9,37.5
-"Guidance, advisory, or toolkit",92,P1,Human-centredness,62,67.4
-"Guidance, advisory, or toolkit",92,P2,Transparency & Explainability,80,87.0
-"Guidance, advisory, or toolkit",92,P3,Inclusivity & Equity,79,85.9
-"Guidance, advisory, or toolkit",92,P4,Accountability & Oversight,84,91.3
-"Guidance, advisory, or toolkit",92,P5,Privacy & Data Governance,82,89.1
-"Guidance, advisory, or toolkit",92,P6,"Safety, Wellbeing & Integrity",87,94.6
-"Guidance, advisory, or toolkit",92,P7,Assessment & Credential Trust,78,84.8
-"Guidance, advisory, or toolkit",92,P8,Knowledge Integrity & MIL,78,84.8
-"Guidance, advisory, or toolkit",92,P9,Cultural Heritage & Authenticity,14,15.2
-"Guidance, advisory, or toolkit",92,P10,"Democracy, Rule of Law & Freedom of Expression",46,50.0
-"Guidance, advisory, or toolkit",92,P11,Competition & Market Integrity,52,56.5
+Official policy or national strategy,24,R1,Digital skills and human capacity,17,70.8
+Official policy or national strategy,24,R2,Equity and access,11,45.8
+Official policy or national strategy,24,R3,Data privacy,21,87.5
+Official policy or national strategy,24,R4,Ethics and governance,19,79.2
+Official policy or national strategy,24,R5,Pedagogical quality,5,20.8
+Official policy or national strategy,24,R6,Academic integrity and authorship,16,66.7
+Official policy or national strategy,24,R7,Mental health,19,79.2
+Official policy or national strategy,24,R8,Legal compliance,21,87.5
+Official policy or national strategy,24,R9,Environmental sustainability,7,29.2
+Official policy or national strategy,24,R10,Cultural homogenization,8,33.3
+Official policy or national strategy,24,R11,Democratic and civic erosion,9,37.5
+"Guidance, advisory, or toolkit",92,P1,Human-centeredness,62,67.4
+"Guidance, advisory, or toolkit",92,P2,Transparency & explainability,80,87.0
+"Guidance, advisory, or toolkit",92,P3,Inclusivity & equity,79,85.9
+"Guidance, advisory, or toolkit",92,P4,Accountability & oversight,84,91.3
+"Guidance, advisory, or toolkit",92,P5,Privacy & data governance,82,89.1
+"Guidance, advisory, or toolkit",92,P6,"Safety, wellbeing & integrity",87,94.6
+"Guidance, advisory, or toolkit",92,P7,Assessment & credential trust,78,84.8
+"Guidance, advisory, or toolkit",92,P8,Knowledge integrity & MIL,78,84.8
+"Guidance, advisory, or toolkit",92,P9,Cultural heritage & authenticity,14,15.2
+"Guidance, advisory, or toolkit",92,P10,"Democracy, rule of law & freedom of expression",46,50.0
+"Guidance, advisory, or toolkit",92,P11,Competition & market integrity,52,56.5
 "Guidance, advisory, or toolkit",92,M1,Normative ethical articulation,71,77.2
 "Guidance, advisory, or toolkit",92,M2,Regulatory and legal controls,73,79.3
 "Guidance, advisory, or toolkit",92,M3,Institutional oversight and professional roles,54,58.7
@@ -90,28 +90,28 @@ Official policy or national strategy,24,R11,Democratic and Civic Erosion,9,37.5
 "Guidance, advisory, or toolkit",92,M10,Monitoring and audit,83,90.2
 "Guidance, advisory, or toolkit",92,M11,Policy coordination,47,51.1
 "Guidance, advisory, or toolkit",92,M12,Environmental sustainability measures,42,45.7
-"Guidance, advisory, or toolkit",92,R1,Digital Skills and Human Capacity,57,62.0
-"Guidance, advisory, or toolkit",92,R2,Equity and Access,40,43.5
-"Guidance, advisory, or toolkit",92,R3,Data Privacy,75,81.5
-"Guidance, advisory, or toolkit",92,R4,Ethics and Governance,77,83.7
-"Guidance, advisory, or toolkit",92,R5,Pedagogical Quality,13,14.1
-"Guidance, advisory, or toolkit",92,R6,Academic Integrity and Authorship,52,56.5
-"Guidance, advisory, or toolkit",92,R7,Mental Health,44,47.8
-"Guidance, advisory, or toolkit",92,R8,Legal Compliance,67,72.8
-"Guidance, advisory, or toolkit",92,R9,Environmental Sustainability,22,23.9
-"Guidance, advisory, or toolkit",92,R10,Cultural Homogenisation,23,25.0
-"Guidance, advisory, or toolkit",92,R11,Democratic and Civic Erosion,34,37.0
-"Report, analysis, or white paper",40,P1,Human-centredness,26,65.0
-"Report, analysis, or white paper",40,P2,Transparency & Explainability,37,92.5
-"Report, analysis, or white paper",40,P3,Inclusivity & Equity,37,92.5
-"Report, analysis, or white paper",40,P4,Accountability & Oversight,34,85.0
-"Report, analysis, or white paper",40,P5,Privacy & Data Governance,36,90.0
-"Report, analysis, or white paper",40,P6,"Safety, Wellbeing & Integrity",36,90.0
-"Report, analysis, or white paper",40,P7,Assessment & Credential Trust,38,95.0
-"Report, analysis, or white paper",40,P8,Knowledge Integrity & MIL,34,85.0
-"Report, analysis, or white paper",40,P9,Cultural Heritage & Authenticity,14,35.0
-"Report, analysis, or white paper",40,P10,"Democracy, Rule of Law & Freedom of Expression",30,75.0
-"Report, analysis, or white paper",40,P11,Competition & Market Integrity,29,72.5
+"Guidance, advisory, or toolkit",92,R1,Digital skills and human capacity,57,62.0
+"Guidance, advisory, or toolkit",92,R2,Equity and access,40,43.5
+"Guidance, advisory, or toolkit",92,R3,Data privacy,75,81.5
+"Guidance, advisory, or toolkit",92,R4,Ethics and governance,77,83.7
+"Guidance, advisory, or toolkit",92,R5,Pedagogical quality,13,14.1
+"Guidance, advisory, or toolkit",92,R6,Academic integrity and authorship,52,56.5
+"Guidance, advisory, or toolkit",92,R7,Mental health,44,47.8
+"Guidance, advisory, or toolkit",92,R8,Legal compliance,67,72.8
+"Guidance, advisory, or toolkit",92,R9,Environmental sustainability,22,23.9
+"Guidance, advisory, or toolkit",92,R10,Cultural homogenization,23,25.0
+"Guidance, advisory, or toolkit",92,R11,Democratic and civic erosion,34,37.0
+"Report, analysis, or white paper",40,P1,Human-centeredness,26,65.0
+"Report, analysis, or white paper",40,P2,Transparency & explainability,37,92.5
+"Report, analysis, or white paper",40,P3,Inclusivity & equity,37,92.5
+"Report, analysis, or white paper",40,P4,Accountability & oversight,34,85.0
+"Report, analysis, or white paper",40,P5,Privacy & data governance,36,90.0
+"Report, analysis, or white paper",40,P6,"Safety, wellbeing & integrity",36,90.0
+"Report, analysis, or white paper",40,P7,Assessment & credential trust,38,95.0
+"Report, analysis, or white paper",40,P8,Knowledge integrity & MIL,34,85.0
+"Report, analysis, or white paper",40,P9,Cultural heritage & authenticity,14,35.0
+"Report, analysis, or white paper",40,P10,"Democracy, rule of law & freedom of expression",30,75.0
+"Report, analysis, or white paper",40,P11,Competition & market integrity,29,72.5
 "Report, analysis, or white paper",40,M1,Normative ethical articulation,33,82.5
 "Report, analysis, or white paper",40,M2,Regulatory and legal controls,31,77.5
 "Report, analysis, or white paper",40,M3,Institutional oversight and professional roles,27,67.5
@@ -124,14 +124,14 @@ Official policy or national strategy,24,R11,Democratic and Civic Erosion,9,37.5
 "Report, analysis, or white paper",40,M10,Monitoring and audit,36,90.0
 "Report, analysis, or white paper",40,M11,Policy coordination,33,82.5
 "Report, analysis, or white paper",40,M12,Environmental sustainability measures,30,75.0
-"Report, analysis, or white paper",40,R1,Digital Skills and Human Capacity,34,85.0
-"Report, analysis, or white paper",40,R2,Equity and Access,25,62.5
-"Report, analysis, or white paper",40,R3,Data Privacy,30,75.0
-"Report, analysis, or white paper",40,R4,Ethics and Governance,35,87.5
-"Report, analysis, or white paper",40,R5,Pedagogical Quality,10,25.0
-"Report, analysis, or white paper",40,R6,Academic Integrity and Authorship,29,72.5
-"Report, analysis, or white paper",40,R7,Mental Health,25,62.5
-"Report, analysis, or white paper",40,R8,Legal Compliance,32,80.0
-"Report, analysis, or white paper",40,R9,Environmental Sustainability,17,42.5
-"Report, analysis, or white paper",40,R10,Cultural Homogenisation,14,35.0
-"Report, analysis, or white paper",40,R11,Democratic and Civic Erosion,19,47.5
+"Report, analysis, or white paper",40,R1,Digital skills and human capacity,34,85.0
+"Report, analysis, or white paper",40,R2,Equity and access,25,62.5
+"Report, analysis, or white paper",40,R3,Data privacy,30,75.0
+"Report, analysis, or white paper",40,R4,Ethics and governance,35,87.5
+"Report, analysis, or white paper",40,R5,Pedagogical quality,10,25.0
+"Report, analysis, or white paper",40,R6,Academic integrity and authorship,29,72.5
+"Report, analysis, or white paper",40,R7,Mental health,25,62.5
+"Report, analysis, or white paper",40,R8,Legal compliance,32,80.0
+"Report, analysis, or white paper",40,R9,Environmental sustainability,17,42.5
+"Report, analysis, or white paper",40,R10,Cultural homogenization,14,35.0
+"Report, analysis, or white paper",40,R11,Democratic and civic erosion,19,47.5
