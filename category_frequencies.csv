@@ -1,0 +1,35 @@
+﻿code,domain,category,document_count,percent_of_160
+P1,Normative principle,Human-centeredness,103,64.4
+P2,Normative principle,Transparency & explainability,142,88.8
+P3,Normative principle,Inclusivity & equity,141,88.1
+P4,Normative principle,Accountability & oversight,146,91.2
+P5,Normative principle,Privacy & data governance,142,88.8
+P6,Normative principle,"Safety, wellbeing & integrity",150,93.8
+P7,Normative principle,Assessment & credential trust,142,88.8
+P8,Normative principle,Knowledge integrity & MIL,134,83.8
+P9,Normative principle,Cultural heritage & authenticity,37,23.1
+P10,Normative principle,"Democracy, rule of law & freedom of expression",92,57.5
+P11,Normative principle,Competition & market integrity,96,60.0
+M1,Governance mechanism,Normative ethical articulation,126,78.8
+M2,Governance mechanism,Regulatory and legal controls,131,81.9
+M3,Governance mechanism,Institutional oversight and professional roles,102,63.8
+M4,Governance mechanism,Transparency and disclosure,141,88.1
+M5,Governance mechanism,Data protection,114,71.2
+M6,Governance mechanism,Risk and safeguarding,127,79.4
+M7,Governance mechanism,Pedagogical and assessment design,139,86.9
+M8,Governance mechanism,Capacity building and AI literacy,152,95.0
+M9,Governance mechanism,Procurement governance,100,62.5
+M10,Governance mechanism,Monitoring and audit,147,91.9
+M11,Governance mechanism,Policy coordination,99,61.9
+M12,Governance mechanism,Environmental sustainability measures,87,54.4
+R1,Risk,Digital skills and human capacity,111,69.4
+R2,Risk,Equity and access,77,48.1
+R3,Risk,Data privacy,127,79.4
+R4,Risk,Ethics and governance,133,83.1
+R5,Risk,Pedagogical quality,29,18.1
+R6,Risk,Academic integrity and authorship,97,60.6
+R7,Risk,Mental health,89,55.6
+R8,Risk,Legal compliance,122,76.2
+R9,Risk,Environmental sustainability,47,29.4
+R10,Risk,Cultural homogenization,45,28.1
+R11,Risk,Democratic and civic erosion,63,39.4
